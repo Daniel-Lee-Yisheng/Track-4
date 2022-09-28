@@ -1,4 +1,3 @@
-import sys
- 
-def types(x): 
-	print("My book is: ",x) 
+import sys 
+def types(x):
+	print("My book is ",x)
